@@ -1,1 +1,1 @@
-python Quick_Sort.py
+run: python Quick_Sort.py
